@@ -1,0 +1,5 @@
+A_CONSTANT = 31.4
+
+A_CONSTANT = 1.6
+
+puts A_CONSTANT
